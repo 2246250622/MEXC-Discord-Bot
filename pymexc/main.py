@@ -99,4 +99,4 @@ async def sell(ctx, *symbol):
 
 
 
-client.run('NjQ0MjA2NTI4Mjk5MTM5MDcy.Gl0NyF.BmM6IJ8gGKsSRrGhYAj-ci7LIoQniKB214qe-U')
+client.run('')
